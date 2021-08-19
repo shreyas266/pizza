@@ -1,0 +1,17 @@
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin: 10px;
+}
+#display{
+    font-weight: bold;
+    font-size: 50px;
+}
+.bg{
+    background-image: url("https://t4.ftcdn.net/jpg/02/34/20/03/360_F_234200318_qGqFF2C4sFC1oCYhiKwWFBcbgUVCqO2W.jpg");
+    background-position: center;
+    background-size: cover;
+}
